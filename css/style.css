@@ -2,6 +2,10 @@
 Main stylesheet - starting point
 Author: b.boehm
 */
+body {
+    font-family: sans-serif;
+}
+
 
 a {
     color: rgb(130,0,130);
