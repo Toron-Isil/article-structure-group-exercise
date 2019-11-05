@@ -1,0 +1,38 @@
+/* 
+Main stylesheet for the first exercise site int MAT19c orientation course at DCI
+Author: b.boehm
+*/
+
+a {
+    color: rgb(130,0,130);
+    text-decoration: none;
+  }
+
+a:hover {
+    color: #fff;;
+    text-decoration: underline;
+}
+
+            body {
+                background-color: rgb(130,150,150);
+                color: #fff;
+            }
+                       
+            p {
+                color: rgb(200,220,220);
+            }
+            
+            
+            footer {
+                color: #ccc;
+            }
+       
+main {
+    clear: both;
+}
+
+/* ----------------------------------------------
+   Navigation
+-------------------------------------------------*/
+
+
