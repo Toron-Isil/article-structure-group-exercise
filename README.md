@@ -1,7 +1,7 @@
 # reconstruction of a webpage
 https://medium.com/edge-coders/the-mistakes-i-made-as-a-beginner-programmer-ac8b3e54c312
 
- ### includes:
+ ### this repo includes:
 - this README.md
 - index.html
 - js-folder --> simple.js (only with console.log("hello"); )  ignore it (preparation for next level)
