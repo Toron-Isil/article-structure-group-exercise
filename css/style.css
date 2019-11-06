@@ -3,37 +3,107 @@ Main stylesheet - starting point
 Author: b.boehm
 */
 body {
-    font-family: sans-serif;
+    color: rgb(50,50,50);;
+    background-color: floralwhite;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
+section {
+    margin-top: 40px;
+}
+
+hr, p, div, h1, h2 {
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+blockquote {
+    margin-left: 22%;
+    margin-right: 22%;
+}
+
+h1 {
+    font-size: 42px;
+    font-weight: inherit;
+    font-family: medium-content-serif-font, Georgia, Cambria, "Times New Roman", Times, serif;
+}
+
+h2 {
+    font-size: 28px;
+    font-family: sans-serif;
+    font-weight: bold;
+    margin-bottom: 4px;
+}
+
+p {
+    font-family: medium-content-serif-font, Georgia, Cambria, "Times New Roman", Times, serif;
+    font-size: 18px;
+    text-align: justify;
+}
+
+#byline {
+    color: rgb(80,80,80);
+    font-family: sans-serif;
+    font-size: 18px;
+}
+
+.sub-link {
+    font-size: 12px;
+    text-align: center;
+
+}
+
+.image {
+    max-width:100%;
+    max-height:100%;
+    display: block;
+    /* margin-left: auto;
+    margin-right: auto; */
+}
+
+.quote {
+    font-style: italic;
+    padding-left: 2em;
+    padding-right: 2em;
+    font-size: 24px;
+}
 
 a {
     color: rgb(130,0,130);
     text-decoration: none;
+    margin-top: 10px;
+    margin-bottom: 10px;
   }
 
-a:hover {
-    color: #fff;;
+/* a:hover {
+    color: rgb(30, 0, 129);;
     text-decoration: underline;
+} */
+
+div {
+    font-size: 18px;
+    font-family: medium-content-serif-font, Georgia, Cambria, "Times New Roman", Times, serif;
+    border-left-color: darkslategrey;
+    border-left-width: 2px;
 }
 
-            body {
-                background-color: rgb(130,150,150);
-                color: #fff;
-            }
-                       
-            p {
-                color: rgb(200,220,220);
-            }
-            
-            
-            footer {
-                color: #ccc;
-            }
-       
-main {
-    clear: both;
+.strong-text {
+    font-weight: bold;
 }
+
+.line-left {
+    font-size: 18px;
+    border-left: rgb(80,80,80);
+    border-left-width: 3px;
+}
+
+.code-element {
+    padding: 2%;
+    background-color: silver;
+    font-family: 'Courier New', Courier, monospace;
+}
+
 
 /* ----------------------------------------------
    Navigation
