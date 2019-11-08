@@ -10,15 +10,17 @@ https://medium.com/edge-coders/the-mistakes-i-made-as-a-beginner-programmer-ac8b
 
 
 -- Please comment on my choice of semantic elements
-   = your comment here =
+
+    = your comment here =
 
 
--- Please give me your opinion on this weird thing I was trying over here <hr> for the three dots
-   = your comment here =
-   
+-- Please give me your opinion on this weird thing I was trying over here with `<hr>` for the three dots.
+
+    = your comment here =
    
 -- Please ignore the "Navigation" at the end of css, its because of preraration for other projects
-   = your comment here =
+
+    = your comment here =
    
    
    
